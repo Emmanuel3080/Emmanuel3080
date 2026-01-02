@@ -45,9 +45,12 @@ I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
 
 ## 📊 GitHub Stats
 
-![Maku Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel3080&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel3080&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Maku Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel3080&show_icons=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel3080&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&langs_count=10&layout=compact&theme=radical)
+
 
 ---
 

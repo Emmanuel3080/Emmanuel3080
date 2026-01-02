@@ -1,8 +1,7 @@
-# Hi there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+I'm Maku Emmanuel 
 
-<h1>I'm **Maku Emmanuel** – a **Full Stack Developer** 🚀</h1>
-
-
+Full Stack Developer
 🌍 Based in Nigeria  
 ✉️ Contact me: [emmanuelabiodun041@gmail.com](mailto:emmanuelabiodun041@gmail)  
 👥 Open to collaborating on interesting projects  
@@ -50,11 +49,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Emmanuel3080&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-## 🔝 Top Repositories
-
-<div width="100%" align="center">
-  <a href="https://github.com/Emmanuel3080/AuraSpace-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel3080&repo=AuraSpace-Frontend&title_color=22c55e&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>

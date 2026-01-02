@@ -1,6 +1,7 @@
 # Hi there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
+<h1>I'm **Maku Emmanuel** – a **Full Stack Developer** 🚀</h1>
+
 
 🌍 Based in Nigeria  
 ✉️ Contact me: [emmanuelabiodun041@gmail.com](mailto:emmanuelabiodun041@gmail)  
@@ -45,7 +46,6 @@ I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
 
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Emmanuel3080&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Emmanuel3080&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

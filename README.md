@@ -45,11 +45,9 @@ I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
 
 ## 📊 GitHub Stats
 
-![Maku Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmanuel3080&show_icons=true&count_private=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel3080&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&langs_count=10&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/Emmanuel3080?style=for-the-badge)
+![Repositories](https://img.shields.io/github/repos/Emmanuel3080?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/Emmanuel3080?style=for-the-badge)
 
 
 ---

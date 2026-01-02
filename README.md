@@ -1,4 +1,4 @@
-# Hi there! 👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
 
@@ -45,9 +45,10 @@ I'm **Maku Emmanuel** – a **MERN Stack Developer** 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/Emmanuel3080?style=for-the-badge)
-![Repositories](https://img.shields.io/github/repos/Emmanuel3080?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/Emmanuel3080?style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Emmanuel3080&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Emmanuel3080&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel3080&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
